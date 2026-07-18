@@ -23,6 +23,7 @@ PeachSolution 팀이 축적한 공개 가능한 기술 교류 문서를 모아�
 ## 추천 문서
 
 - `docs/6.지식관리/01-karpathy-claude-md-가이드.md` — Claude Code, `AGENTS.md`, `.claude/rules` 구조를 여러 프로젝트에 적용하는 실무 가이드
+- [AgentsView 설치·사용 가이드](docs/4.도구연동/09-AgentsView-설치-사용-가이드.md) — AI 코딩 에이전트 세션 통합 조회를 위한 설치·실행·DB 구성 가이드
 
 ## 정본 구분
 
