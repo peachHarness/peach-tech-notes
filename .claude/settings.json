@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/skills-check.sh",
+            "timeout": 10,
+            "statusMessage": "에이전트 스킬 상태 점검"
+          }
+        ]
+      }
+    ]
+  }
+}

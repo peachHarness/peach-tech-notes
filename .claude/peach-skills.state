@@ -1,0 +1,19 @@
+# 이 프로젝트가 쓰는 스킬과 설치 상태.
+#
+# 'skill' 줄을 직접 편집한다 — 이것이 유일한 스킬 목록이며 pull/check/diff/push 가
+# 전부 여기서 도출된다. .claude/peach-skills.sh 에는 프로젝트별 설정이 한 줄도 없다
+# (모든 프로젝트에서 동일한 파일이므로 고치지 않는다).
+#
+#   형식: skill <스킬이름>:<owner>/<repo>
+#   갱신: .claude/peach-skills.sh pull        확인: .claude/peach-skills.sh check
+#
+# 이 저장소에서 직접 만든 스킬은 적지 않는다 — 적으면 pull 이 원본에 없는 스킬을 찾아
+# 실패한다. 적지 않으면 diff/push 대상에서 자동 제외되고 "수동 관리 스킬"로 표시된다.
+# 원본 저장소 내부 전용 스킬(release 등, metadata.internal: true)도 적지 않는다.
+
+skill peach-wiki:peachHarness/peach-harness
+skill peach-e2e-browse:peachHarness/peach-harness
+
+# ── 아래는 pull 이 기록한다. 직접 편집하지 않는다. ──
+# 마지막 설치: 2026-09-20 15:26:59 +0900
+installed peachHarness/peach-harness v3.5.0

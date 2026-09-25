@@ -1,0 +1,6 @@
+# ── 에이전트 스킬 (근거: .claude/peach-skills.sh "git 추적 정책") ──
+# .agents/skills/ 는 hook 이 재생성하는 심링크, skills-lock.json 은 설치 부산물이다.
+.agents/skills/
+/skills-lock.json
+
+.DS_Store
