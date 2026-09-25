@@ -15,5 +15,5 @@ skill peach-wiki:peachHarness/peach-harness
 skill peach-e2e-browse:peachHarness/peach-harness
 
 # ── 아래는 pull 이 기록한다. 직접 편집하지 않는다. ──
-# 마지막 설치: 2026-09-20 15:26:59 +0900
-installed peachHarness/peach-harness v3.5.0
+# 마지막 설치: 2026-09-25 12:39:12 +0900
+installed peachHarness/peach-harness v3.5.1

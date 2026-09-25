@@ -68,7 +68,7 @@ wiki 복리 게이트 대상 경로(프로젝트 로컬 스킬 `.claude/skills/`
 최근 운영 지표 확인은 읽기 전용 스크립트를 사용한다.
 
 ```bash
-bash skills/peach/peach-wiki/assets/wiki-events-metrics.sh docs/wiki/events
+bash <이 스킬 경로>/assets/wiki-events-metrics.sh docs/wiki/events
 ```
 
 집계 기준:
